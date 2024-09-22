@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 
 `es5-shim.js` and `es5-shim.min.js` monkey-patch a JavaScript context to
 contain all EcmaScript 5 methods that can be faithfully emulated with a
